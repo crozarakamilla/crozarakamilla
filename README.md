@@ -17,4 +17,4 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/12123773181)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12123773181&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)

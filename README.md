@@ -17,4 +17,4 @@
 
 ### Spotify Playing 🎧
 
-[https://spotify-github-profile.vercel.app/api/view.svg?uid=12123773181&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=12123773181&cover_image=true&theme=natemoo-re)]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12123773181&cover_image=true&theme=natemoo-re)](https://github.com/kittinan/spotify-github-profile)

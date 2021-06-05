@@ -7,6 +7,6 @@
 - 😄 Pronouns: ela/she/ella
 - 🔭 I’m currently working with EmberJS, TailwindCSS, Flask, Django and Flutter
 - 🌱 I’m currently learning Go and Rasa 
-- 👯 I’m looking to collaborate on open source projects that improves government efficiency and transparency
+- 👯 I’m looking to collaborate on free software projects that improves government efficiency and transparency
 - 💬 Ask me about astronomy, cats, politics, Linux and rubik's cube
 - 📫 Reach me @ holanda.kamilla@gmail.com

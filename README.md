@@ -10,9 +10,3 @@
 - 👯 I’m looking to collaborate on open source projects that improves government efficiency and transparency
 - 💬 Ask me about astronomy, cats, politics, Linux and rubik's cube
 - 📫 Reach me @ holanda.kamilla@gmail.com
-
-
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12123773181&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=12123773181&redirect=true)

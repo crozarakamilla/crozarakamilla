@@ -5,7 +5,7 @@
 
 
 - 😄 Pronouns: ela/she/ella
-- 🔭 I’m currently working with Vue3, FastAPI, Flask, Django, EmberJS, TailwindCSS and Flutter
+- 🔭 I’m currently working with Vue3 + Quasar, FastAPI, Flask, Django, EmberJS, TailwindCSS and Flutter
 - 🌱 I’m currently learning Go and Rasa 
 - 👯 I’m looking to collaborate on free software projects that improves government efficiency and transparency
 - 💬 Ask me about astronomy, cats, politics, Linux and rubik's cube
